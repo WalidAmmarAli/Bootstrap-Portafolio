@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: 'Poppins', Arial, sans-serif;
+    background-color: #f7f7f9;
+}
+
+
+
+
+
+#logo {
+    margin-left: 14.4%;
+    margin-right: 0%;
+    color: #6070FF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.header-main {
+    background-color: #FFFFFF !important;
+    border-radius: 0 0 0px 200px;
+    border: 1px solid #dfe1e6;
+    border-top: none;
+
+}
+
+.main-header {
+    height: 844px !important;
+    background-image: url(Images/Header\ bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.background-img {
+    height: 47rem;
+
+}
+
+#header-content {
+    margin-left: 15.4%;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    color: #091E42;
+}
+
+.p-info {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #344563;
+}
+
+li {
+    list-style: none;
+    margin-right: 20px;
+}
+
+.connect2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7F8CFF;
+
+}
